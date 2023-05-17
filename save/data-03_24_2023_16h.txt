@@ -1,0 +1,209 @@
+
+	user :
+
+/menu
+	bot :
+
+something went wrong, enter the path to the file you want to change again
+	user :
+
+/back
+	bot :
+
+You come Back to data menu
+	user :
+
+physics
+	bot :
+
+something went wrong, enter the path to the file you want to change again
+	user :
+
+/start
+	bot :
+
+Hello, my name is BrainBoost. You can ask me questions about the following topics: 
+
+physics
+math
+geography
+general
+philology
+working with text
+	user :
+
+working with text
+	bot :
+
+You have chosen the topic 'working with text'. You can ask me questions about the following topics: 
+
+Convert the text to upper case
+Display the words in alphabetical order
+Find the most frequently used letter in the text.
+	user :
+
+Ishssj
+	bot :
+
+NotFoundCommand
+	user :
+
+Convert the text to upper case
+	bot :
+
+Enter the path to the file you want to change
+	user :
+
+Brisbane
+	bot :
+
+something went wrong, enter the path to the file you want to change again
+	user :
+
+/back
+	bot :
+
+You come Back to start menu
+	user :
+
+physics
+	bot :
+
+something went wrong, enter the path to the file you want to change again
+	user :
+
+/back
+	bot :
+
+You come Back to data menu
+	user :
+
+/back
+	bot :
+
+You are already in the last directory
+	user :
+
+physics
+	bot :
+
+something went wrong, enter the path to the file you want to change again
+	user :
+
+/back
+	bot :
+
+You are already in the last directory
+	user :
+
+/back
+	bot :
+
+You are already in the last directory
+	user :
+
+Display the words in alphabetical order
+	bot :
+
+something went wrong, enter the path to the file you want to change again
+	user :
+
+/back
+	bot :
+
+You are already in the last directory
+	user :
+
+/back
+	bot :
+
+You are already in the last directory
+	user :
+
+/exit
+	bot :
+
+I was glad to chat, see you soon.
+	user :
+
+/start
+	bot :
+
+Hello, my name is BrainBoost. You can ask me questions about the following topics: 
+
+physics
+math
+geography
+general
+philology
+working with text
+	user :
+
+physics
+	bot :
+
+You have chosen the topic 'physics'. You can ask me questions about the following topics: 
+
+Stefan-Boltzmann law
+Derive Planck's constant
+	user :
+
+/back
+	bot :
+
+You come Back to start menu
+	user :
+
+math
+	bot :
+
+You have chosen the topic 'math'. You can ask me questions about the following topics: 
+
+The formula for solving a quadratic equation
+The formula for the scalar product of vectors
+The formula for calculating the distance from a point to a straight line in space
+Area of the triangle
+Output the nth Fibonacci number
+Find the coordinates of the center of the circle if the coordinates of three points lying on the circle are known
+	user :
+
+/back
+	bot :
+
+You come Back to start menu
+	user :
+
+working with text
+	bot :
+
+You have chosen the topic 'working with text'. You can ask me questions about the following topics: 
+
+Convert the text to upper case
+Display the words in alphabetical order
+Find the most frequently used letter in the text.
+	user :
+
+/back
+	bot :
+
+You come Back to start menu
+	user :
+
+general
+	bot :
+
+You have chosen the topic 'general'. You can ask me questions about the following topics: 
+
+what time is it?
+how many days until New Year?
+what is your name?
+sing a carol
+Say an inspirational quote
+write the number pi
+what is underground?
+where you can download books for free?
+who is einstein?
+what is communism?
+what is technocracy?
+when the pyramids were built?
+who discovered america?

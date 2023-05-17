@@ -1,0 +1,113 @@
+
+	user :
+
+/start
+	bot :
+
+HHello, my name is BrainBoost. You can ask me questions about the following topics: 
+
+physics
+math
+geography
+general
+philology
+working with text
+	user :
+
+/start
+	bot :
+
+Hello, my name is BrainBoost. You can ask me questions about the following topics: 
+
+physics
+math
+geography
+general
+philology
+working with text
+	user :
+
+/exit
+	bot :
+
+I was glad to chat, see you soon.
+	user :
+
+/start
+	bot :
+
+Hello, my name is BrainBoost. You can ask me questions about the following topics: 
+
+physics
+math
+geography
+general
+philology
+working with text
+	user :
+
+physics
+	bot :
+
+You have chosen the topic 'physics'. You can ask me questions about the following topics: 
+
+Stefan-Boltzmann law
+Derive Planck's constant
+	user :
+
+back
+	bot :
+
+NotFoundCommand
+	user :
+
+/back
+	bot :
+
+You come Back to start menu
+	user :
+
+/exit
+	bot :
+
+I was glad to chat, see you soon.
+	user :
+
+/почати
+	bot :
+
+Вітаю, мене звати BrainBoost. Ви можете задати мені питання з наступних тем: 
+
+фізика
+математика
+географія
+загальні
+філологія
+робота з текстом
+	user :
+
+фізика
+	bot :
+
+Ви обрали тему 'фізика'. Ви можете задати  мені питання з наступних тем: 
+
+Закон Стефана-Больцмана
+Вивести сталу Планка
+	user :
+
+назад
+	bot :
+
+NotFoundCommand
+	user :
+
+/назад
+	bot :
+
+Ви повернулись до start меню
+	user :
+
+/command2
+	bot :
+
+NotFoundCommand
