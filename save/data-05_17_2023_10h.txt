@@ -1,0 +1,59 @@
+
+	user :
+
+/start
+	bot :
+
+Hello, my name is BrainBoost. You can ask me questions about the following topics: 
+
+physics
+math
+geography
+general
+philology
+working with text
+	user :
+
+general
+	bot :
+
+You have chosen the topic 'general'. You can ask me questions about the following topics: 
+
+what time is it?
+how many days until New Year?
+what is your name?
+sing a carol
+Say an inspirational quote
+write the number pi
+what is underground?
+where you can download books for free?
+who is einstein?
+what is communism?
+what is technocracy?
+when the pyramids were built?
+who discovered america?
+	user :
+
+what time is it?
+	bot :
+
+05/17/2023, 10:30:10
+	user :
+
+/back
+	bot :
+
+You come Back to start menu
+	user :
+
+math
+	bot :
+
+You have chosen the topic 'math'. You can ask me questions about the following topics: 
+
+The formula for solving a quadratic equation
+The formula for the scalar product of vectors
+The formula for calculating the distance from a point to a straight line in space
+Area of the triangle
+Output the nth Fibonacci number
+Find the coordinates of the center of the circle if the coordinates of three points lying on the circle are known

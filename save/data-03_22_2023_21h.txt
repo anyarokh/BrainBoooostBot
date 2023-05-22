@@ -1,0 +1,29 @@
+
+	user :
+
+/start
+	bot :
+
+Hi im bot
+You can ask me questions about the following topics
+
+physics
+math
+geography
+general
+philology
+working with text
+	user :
+
+/start
+	bot :
+
+Hi im bot
+You can ask me questions about the following topics
+
+physics
+math
+geography
+general
+philology
+working with text
