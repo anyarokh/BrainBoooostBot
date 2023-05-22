@@ -111,7 +111,6 @@
             </div>
         </div>
     </div>
-    <div>
-        <h2>developed by </h2>
+    
     </div>
 </div>
